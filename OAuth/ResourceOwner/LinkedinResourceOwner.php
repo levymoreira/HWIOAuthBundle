@@ -32,7 +32,7 @@ class LinkedinResourceOwner extends GenericOAuth2ResourceOwner
         'lastname' => 'lastName',
         'email' => 'emailAddress',
         'profilepicture' => 'profilePicture',
-    ];
+    );
 
     /**
      * {@inheritdoc}
